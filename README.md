@@ -4,5 +4,7 @@
 * Includes quantity of donations, amount of donations (in Argentine pesos), average, and male/female percentages
 * Utilizes JavaScript, HTML, CSS, and the [D3 Javascript library](https://d3js.org/)
 
-The visualization can be found online [here](https://elizabethtian.github.io/categories-visualization/). It has been used in the Donar Online blog here. Note: To switch between views ("Vistas"), click on the corresponding word. Hover over the circles for more information.
+The visualization can be found online [here](https://elizabethtian.github.io/categories-visualization/). It has been used in the Donar Online blog here. 
+
+Note: To switch between views ("Vistas"), click on the corresponding word. Hover over the circles for more information.
 
