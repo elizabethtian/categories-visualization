@@ -1,8 +1,14 @@
-/** 
-/*  Donar Online Data Visualization
-/*  Maps categories to circles, size based on donations
-/*  
-/*  Created by Elizabeth Tian, 2016
+/* 
+ *  Donar Online Data Visualization
+ *
+ *  JavaScript for the data visualization of Donar Online category data from 2015. Uses packing
+ *  to map categories to circles, with the size based on donations.
+ *  Includes different views: quantity of donations, amount of donations (in Argentine pesos),
+ *  average donation amount per person, and male/female donation percentages.
+ *
+ *  Utilizes the d3 library for visualizations.
+ *  
+ *  Created by Elizabeth Tian, 2016
 **/
 
 //data
