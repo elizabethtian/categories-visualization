@@ -1,5 +1,8 @@
 # Data Visualization: Donar Online Categories (2015)
 
+This visualization has moved! Please click [here](https://github.com/elizabethtian/donar-online-visualizations).
+
+---
 * Data visualization of Donar Online category data from 2015
 * Uses packing to map categories to circles, with the size based on donations.
 * Includes different views: quantity of donations, amount of donations (in Argentine pesos), average donation amount per person, and male/female donation percentages.
